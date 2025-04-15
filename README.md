@@ -19,3 +19,7 @@ I'm Danila, a front-end web developer passionate about building clean, responsiv
 🔍 I'm interested in collaboration, open-source, and helping businesses create strong digital presences.
 
 📬 Feel free to connect or reach out — always open to interesting projects or tech talk.
+
+<div align="center">
+  ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fmaifleh) ![Static Badge](https://img.shields.io/badge/Mail_me-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Adanil13040562%40gmail.com)
+</div>
