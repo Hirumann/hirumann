@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="300" height="600">
+  <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="600" height="300">
 </div>
 
 ## Hi, I'm Danila Malov! 😎
