@@ -1,10 +1,12 @@
+## Hi, I'm Danila Malov! 😎
+
 <div align="center">
   <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="600" height="300">
 </div>
 
-## Hi, I'm Danila Malov! 😎
+###
 
-# 👋 About Me
+👋 About Me
 
 Hi! I'm Danila, a front-end web developer passionate about building clean, responsive, and user-focused interfaces. I specialize in JavaScript and React, and I enjoy turning complex problems into elegant solutions through thoughtful UI/UX design and clean code.
 
