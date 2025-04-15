@@ -6,9 +6,9 @@
 
 ###
 
-👋 About Me
+👋 **About Me**
 
-Hi! I'm Danila, a front-end web developer passionate about building clean, responsive, and user-focused interfaces. I specialize in JavaScript and React, and I enjoy turning complex problems into elegant solutions through thoughtful UI/UX design and clean code.
+I'm Danila, a front-end web developer passionate about building clean, responsive, and user-focused interfaces. I specialize in JavaScript and React, and I enjoy turning complex problems into elegant solutions through thoughtful UI/UX design and clean code.
 
 🛠 **Technologies I work with:**
 
